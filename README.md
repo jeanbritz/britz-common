@@ -1,0 +1,2 @@
+# britz-common
+Common class
