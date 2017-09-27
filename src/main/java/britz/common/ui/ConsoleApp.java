@@ -17,7 +17,9 @@ public class ConsoleApp implements Runnable  {
 	private boolean running = false;
 	
 	public void run() {
-				
+		while(!running) {
+			
+		}
 	}
 	
 	public void addPage(Page page) {
